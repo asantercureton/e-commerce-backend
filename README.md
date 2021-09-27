@@ -28,10 +28,10 @@ SO THAT my company can compete with other e-commerce companies.
 ## Links
 [App Code](https://github.com/asantercureton/e-commerce-backend)
 
-[Video Recording](https://watch.screencastify.com/v/bcEH6IpfKxxVb7YbXZlt)
+[Video Recording](https://watch.screencastify.com/v/1vxSzDQtV6beyb74cS3R)
 
 ## Installation
-Run "npm install" at root directory
+Run "npm install mysql " at root directory
 
 Then run "mysql -u root"
 
@@ -58,13 +58,13 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Screenshots
 Below is a screenshot of the project:
 
-<!-- ![Image of html](./assets/images/employee-tracker-start.jpg) -->
+![Image of html](./assets/images/e-commerce-npm-run-watch.jpg)
 
-<!-- ![Image of html](./assets/images/employee-tracker-view-all.jpg) -->
+![Image of html](./assets/images/e-commerce-insomnia-one.jpg)
 
-<!-- ![Image of html](./assets/images/employee-tracker-add.jpg) -->
+![Image of html](./assets/images/e-commerce-insomnia-create-cat.jpg)
 
-<!-- ![Image of html](./assets/images/employee-tracker-add-emp.jpg) -->
+![Image of html](./assets/images/e-commerce-insomnia-delete-pro.jpg)
 
 ## License
 ![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
